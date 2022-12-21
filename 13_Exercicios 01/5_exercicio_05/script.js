@@ -1,0 +1,1 @@
+console.log("André" * 4);
